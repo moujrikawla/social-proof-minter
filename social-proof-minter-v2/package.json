@@ -1,0 +1,12 @@
+{
+  "name": "social-proof-minter",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.0.1",
+    "ethers": "6.8.1",
+    "hardhat": "2.22.1"
+  }
+}
